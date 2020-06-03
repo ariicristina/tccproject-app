@@ -1,0 +1,108 @@
+CONFIGURAR SUA ORGANIZAÇÃO
+Descrever o valor comercial dos campos e objetos personalizados
+Criar e editar campos e obj personalizados
+Criar uma guia personalizada para um obj personalizado
+
+**na prática - criado tabs ou guias personalizadas
+---------------------------------------------------------------------------------------------------------------------------
+CRIAR E PERSONALIZAR APLICATIVOS LIGHTNING
+Descrever as vantagens dos aplicativos lightning
+Criar um aplicativo lightning com marca personalizada
+Listar duas melhores práticas de planejamento
+
+O que é um app Lightning?
+
+Um app é uma coleção de itens que funcionam em conjunto para servir um propósito.
+Os app lightning permite personalizar os app com cores e logotipos.
+Serve para trabalhar de maneira mais eficiente alternando facilmente entre aplicativos.
+
+**pratica - criado aplicativo do solzinho com varios opçoes de coisas dentro do app
+
+---------------------------------------------------------------------------------------------------------------------------
+CRIAR E PERSONALIZAR MODOS DE EXIBIÇÃO DE LISTA 
+Modo de exibição de lista personalizada
+grafico de modo de exibição de lista personalizado
+editar e classificar modos de exibição de lista
+
+**pratica - criado filtros e graficos personalizados
+---------------------------------------------------------------------------------------------------------------------------
+PERSONALIZAR DESTAQUES DE REGISTRO COM LAYOUTS COMPACTOS
+Descrever como layouts compactos ajudam os usuários
+Crar layout compacto personalizado
+
+Função dos layouts compactos
+Controlam quais campos os usuários veem no painel de destaques da parte superior de um registro
+Controlam campos que aparecem no cartao de pesquisa expandida quando passa o mouse sobre o link
+Torna a equipe mais produtiva ao fornecer as prinicpais informações sobre registros
+
+**pratica - criado layout compacto
+----------------------------------------------------------------------------------------------------------------------------
+PERSONALIZAR DETALHES DE RESGISTRO COM LAYOUTS DE PÁGINA
+Criar e gerenciar layouts de página
+Usar o editor de layout de página
+Atribuir um layout de página a um perfil
+Explicar como o edito de layout de página aciona conteúdo de detalhes de registtro no Lightning Experience
+
+O editor de layout de página permite:
+Controlar os campos, listas de registros relacionados e links personalizados que os usuários podem ver
+Personalizar a ordem em que os campos aparecem nos detalhes da página
+Definir se os campos são visíveis, somente leitura ou obrigatórios
+Controlar quais botões personalizados e padrão aparecem nos registros e nas listas relacionadas
+Controlar as ações rápidas que aparecem na página
+
+**prática - criar layouts para pernosalizar resgustros, até incluir arquivos para anexo.
+
+****ESTUDAR NOMES COMO OBJETOS, REGISTROS, CAMPOS, DETALHES, ETC....
+---------------------------------------------------------------------------------------------------------------------------
+CRIAR BOTÕES E LINKS PERSONALIZADOS
+Criar botões e links personalizados
+Adicioná-los a um layout de página
+Diferença entre um botão e um link personalizado
+
+Botões e links ajudam a integrar os dados do Salesforce à URLs externas, a aplicativos e à intranet da organização, 
+ou sistemas backend. 
+
+Existem 3 tipos de botões e links que vc pode criar:
+
+Botão de lista: aparece na lista relacionada de uma página de registro de objeto.
+Link de página de detalhes: aparece na seção de links dos detalhes de registro em uma página de registro de objeto.
+Botão de página de detalhes: aparece no menu de ações no painel de destaques de uma página de registro.
+---------------------------------------------------------------------------------------------------------------------------
+FORTALECER SEUS USUÁRIOS COM AÇÕES RÁPIDAS
+Descrever como as ações ajudam seus usuários
+Descrever a diferença entre ações globais e específicas de objeto.
+Criar uma ação e adicioná-la a um layout de página.
+
+Ações permitem que seus usuários executem tarefas rapidamente, como criar registros, registrar chamadas, 
+enviar emails, etc...
+Existem 2 tipos de ações rápidas:
+1 - Ações específicas de objeto:
+Tem relacionamentos automaticos com outros registros, permite ao usuários, criar/atualizar/registar registros ou
+chamadas, enviar emails... As ações específicas ficam no layout de página do objeto.
+
+2 - Ações globais:
+São criadas em local diferente em que são criadas as específicas de objeto. Podem ser colocadas em qualquer lugar que
+haja suporte para as ações. São usadas para permitir que o usuário  regitsre/crie/atualize regustros, enciem emails, etc
+sem precisar sair da página que estão. Ficam em um layout especial próprio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
