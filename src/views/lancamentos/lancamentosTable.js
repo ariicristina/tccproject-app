@@ -8,16 +8,21 @@ export default props =>{
             <tr key={lancamentos.id}>
                 <td>{lancamentos.descricao}</td>
                 <td>{currencyFormatter.format(lancamentos.valor, {locale: 'pt-BR' })}</td>
-                <td>{lancamentos.tipo}</td>
+                <td>{lancamentos.tipoLancamento}</td>
                 <td>{lancamentos.mes}</td>
-                <td>{lancamentos.status}</td>
+                <td>{lancamentos.statusLancamento}</td>
                 <td>
                     <button type="button" 
-                            className="btn btn-primary" onClick={ e => props.editAction(lancamentos.id)}>Editar</button>
+                            className="btn btn-primary" 
+                            onClick={ e => props.editAction(lancamentos.id)}>
+                                Editar
+                    </button>
                     <button type="button" 
-                            className="btn btn-danger" onClick={ e => props.deleteAction(lancamentos)}>Deletar</button>
-
-                </td>
+                            className="btn btn-danger"  
+                            onClick={ e => props.deleteAction(lancamentos)}>
+                                Deletar
+                    </button> 
+                </td>                          
             </tr>
         )
     })
